@@ -7,10 +7,11 @@
 #### About  
 Hello! I'm Linhao Li, a Data Science student at Chongqing University, currently pursuing an **B.S. in Data Science & Big Data Technology** (2022-2026 expected). I will also complete a **one-semester exchange program** in Computer Science at the **University of Macau** (2024 Fall).  
 
-I'm actively seeking **2026 Fall Ph.D. positions** in **Computer Science** or **Artificial Intelligence**.
+I'm actively seeking **2026 Fall Ph.D. positions** in **Computer Science** or **Artificial Intelligence**. \
+Currently, I am actively seeking remote/on - site RA internship opportunities. I believe a short - term experience will help me better understand the group's research environment. Highly motivated, I aim to perform well and earn a return offer for long - term contribution.
 
-#### Email
-lilinhao[at]stu.cqu.edu.cn
+#### Research Interests
+Machine Learning, Deep Learning, Multimodal, Uncertainty
 
 #### Education
 - **B.S., Data Science and Big Data Technology**  
@@ -20,5 +21,8 @@ lilinhao[at]stu.cqu.edu.cn
   **University of Macau**, Macau SAR, China  
   2024–2025  
 
-#### Research Interests
-Machine Learning, Deep Learning, Multimodal, Uncertainty
+
+#### Email
+lilinhao[at]stu.cqu.edu.cn \
+linhaoli35[at]gmail.com
+
