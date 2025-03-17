@@ -1,16 +1,24 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![CQULinhaoLi](https://img.shields.io/badge/CQULinhaoLi-github-blue?logo=github)](https://github.com/CQULinhaoLi)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+
+
+#### About  
+Hello! I'm Linhao Li, a Data Science student at Chongqing University, currently pursuing an **M.S. in Data Science & Big Data Technology** (2022-2026 expected). I will also complete a **one-semester exchange program** in Computer Science at the **University of Macau** (2024 Fall).  
+
+I'm actively seeking **2026 Fall Ph.D. positions** in **Computer Science** or **Artificial Intelligence**.
 
 #### Email
-sli[at]cumt.edu.cn
+lilinhao[at]stu.cqu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- **M.S., Data Science and Big Data Technology**  
+  **Chongqing University**, Chongqing, China  
+  2022–2026 (expected)  
+- **B.S., Computer Science**  
+  **University of Macau**, Macau SAR, China  
+  2024–2025  
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Machine Learning, Deep Learning, Multimodal, Uncertainty
