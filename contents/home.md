@@ -24,5 +24,5 @@ Machine Learning, Deep Learning, Multimodal, Uncertainty
 
 #### Email
 lilinhao[at]stu.cqu.edu.cn \
-linhaoli35[at]gmail.com
+linhao.li2026[at]gmail.com
 
