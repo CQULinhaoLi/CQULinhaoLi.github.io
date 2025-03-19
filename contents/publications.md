@@ -14,8 +14,10 @@
 
 <!-- #### Publications -->
 
-**In Preparation**
-- **Title**: [Title of Your Paper]
+<!-- **In Preparation** -->
+<!-- - **Title**: [Title of Your Paper]
   - **Authors**: [Your Name], [Co - Authors if any]
   - **Brief Description**: Provide a short summary of what the paper is about, such as the research question, methodology, or main findings. For example, "This paper explores the application of multimodal data fusion in [specific field] using [specific method], aiming to [research goal]."
-  - **Expected Submission**: [Estimated time of submission, e.g., "Expected to be submitted by the end of 2025"]
+  - **Expected Submission**: [Estimated time of submission, e.g., "Expected to be submitted by the end of 2025"] -->
+  
+A *paper* that **centers on** uncertainty modeling and multi - source information fusion is soon to be submitted to *IEEE TKDE*. 
